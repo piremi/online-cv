@@ -3,7 +3,7 @@
 #
 
 sidebar:
-  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
   education: False # set to False if you want education in main section instead of in sidebar
 
   # Profile information
@@ -50,6 +50,7 @@ career-profile:
     Work Experience as End User Support Technician (1.5 year at Exxon Mobile Korea) Work Experience as Level 2 support 
     technician & IT Consultant (total 4 years at Synditech Solutions) Certificates in CompTIA A+, Network+, Security+, 
     Microsoft MCSE 2003 Security, Cisco CCNA(expired).
+
 education:
   - degree: Master of Business Administration
     university: Trinity Western University, Langley, BC
@@ -73,9 +74,17 @@ education:
       pretium quis, sem.
         - Bullet point
         - Bullet point
-  - degree: Bacheler in Computer Science Education
+  - degree: Bachelor's degree in Computer Science Education
     university: Hanyang University, Seoul, South Korea
     time: Mar 2001 - Feb 2005
+    details: |
+      Describe your study here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+      sociis natoque penatibus et magnis dis parturient montes, nascetur
+      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+      pretium quis, sem.
+        - Bullet point
+        - Bullet point
 
 experiences:
   - role: IT Support Technician
@@ -125,6 +134,7 @@ experiences:
       pellentesque eu, pretium quis, sem.
         - Bullet point
         - Bullet point
+
 projects:
   title: Projects
   intro: >
@@ -152,27 +162,27 @@ projects:
       link: "#"
       tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-  title: Publications
-  intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
-  papers:
-    - title: The Art of Computer Programming
-      link: "#"
-      authors: Donald E. Knuth
-      conference: Addison-Wesley, 1968
+# publications:
+#   title: Publications
+#   intro: |
+#     You can list your publications in this section. Lorem ipsum dolor sit
+#     amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#     bibendum fringilla a eu lectus.
+#   papers:
+#     - title: The Art of Computer Programming
+#       link: "#"
+#       authors: Donald E. Knuth
+#       conference: Addison-Wesley, 1968
 
-    - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-      link: "#"
-      authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-      conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#     - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#       link: "#"
+#       authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#       conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-    - title: A syntax directed compiler for Algol 60
-      link: "#"
-      authors: Edgar T. Irons
-      conference: "Comm. ACM 4 (1961), 51–55"
+#     - title: A syntax directed compiler for Algol 60
+#       link: "#"
+#       authors: Edgar T. Irons
+#       conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
   title: Skills &amp; Proficiency
