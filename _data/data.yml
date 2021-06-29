@@ -55,36 +55,25 @@ education:
   - degree: Master of Business Administration
     university: Trinity Western University, Langley, BC
     time: Sep 2019 - Nov 2021
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: Diploma in Windows System Administration
+    # details: |
+    #   Describe your study here lorem ipsum dolor sit amet, consectetuer
+    #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+    #   sociis natoque penatibus et magnis dis parturient montes, nascetur
+    #   ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+    #   pretium quis, sem.
+    #     - Bullet point
+    #     - Bullet point
+  - degree: Diploma in System Administration and Security Professional co-op work course
     university: Hampton College ltd., Vancouver, BC
     time: Feb 2009 - Feb 2011
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+
   - degree: Bachelor's degree in Computer Science Education
     university: Hanyang University, Seoul, South Korea
     time: Mar 2001 - Feb 2005
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+
+  - degree: Complete Basic IT security course
+    university: Hacker's College at ITBank, Seoul, South Korea
+    time: Dec 2007 - Feb 2008
 
 experiences:
   - role: IT Support Technician
