@@ -63,9 +63,12 @@ education:
     #   pretium quis, sem.
     #     - Bullet point
     #     - Bullet point
-  - degree: Diploma in System Administration and Security Professional co-op work course
+  - degree: Diploma in System Administration and Security Professional
     university: Hampton College ltd., Vancouver, BC
     time: Feb 2009 - Feb 2011
+    details: |
+      - Windows System Administration
+      - Co-op work course (6 months)
 
   - degree: Bachelor's degree in Computer Science Education
     university: Hanyang University, Seoul, South Korea
