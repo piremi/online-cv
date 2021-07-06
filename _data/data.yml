@@ -54,13 +54,13 @@ career-profile:
       - Hardware maintenance - Parts replacement (RAM, Disks, I/O cards, etc.), Performance Diagnosis and troubleshooting
       - Repair / RMA task available
 
-    # Capable system administration experienced in helping end users correct problems with computer systems,
-    # mobile devices and peripheral equipment. Knowledgeable about usability and security concerns. Skilled 
-    # at working alone to investigate and fix problems. Skilled Support Technician enthusiastic about helping 
-    # facility run smoothly by providing top-notch support. Proficient in Windows/Linux server maintenance and repairs. 
-    # Work Experience as End User Support Technician (1.5 year at Exxon Mobile Korea) Work Experience as Level 2 support 
-    # technician & IT Consultant (total 4 years at Synditech Solutions) Certificates in CompTIA A+, Network+, Security+, 
-    # Microsoft MCSE 2003 Security, Cisco CCNA(expired).
+  # Capable system administration experienced in helping end users correct problems with computer systems,
+  # mobile devices and peripheral equipment. Knowledgeable about usability and security concerns. Skilled
+  # at working alone to investigate and fix problems. Skilled Support Technician enthusiastic about helping
+  # facility run smoothly by providing top-notch support. Proficient in Windows/Linux server maintenance and repairs.
+  # Work Experience as End User Support Technician (1.5 year at Exxon Mobile Korea) Work Experience as Level 2 support
+  # technician & IT Consultant (total 4 years at Synditech Solutions) Certificates in CompTIA A+, Network+, Security+,
+  # Microsoft MCSE 2003 Security, Cisco CCNA(expired).
 
 education:
   - degree: Master of Business Administration
