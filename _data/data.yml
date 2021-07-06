@@ -43,13 +43,24 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Capable system administration experienced in helping end users correct problems with computer systems,
-    mobile devices and peripheral equipment. Knowledgeable about usability and security concerns. Skilled 
-    at working alone to investigate and fix problems. Skilled Support Technician enthusiastic about helping 
-    facility run smoothly by providing top-notch support. Proficient in Windows/Linux server maintenance and repairs. 
-    Work Experience as End User Support Technician (1.5 year at Exxon Mobile Korea) Work Experience as Level 2 support 
-    technician & IT Consultant (total 4 years at Synditech Solutions) Certificates in CompTIA A+, Network+, Security+, 
-    Microsoft MCSE 2003 Security, Cisco CCNA(expired).
+    - Network | Server Professional
+      - TCP/IP Configuration and troubleshooting 
+      - Implement / maintenance application servers: IIS, Apache, DHCP, DNS, VPN, FTP, etc.
+      - Routers / Switches configuration and maintenance with CCNA level knowledge base
+      - UTP/STP ethernet cable management from the scratch
+
+    - Hardware Professional
+      - Assemble/disassemble laptop/desktop PCs
+      - Hardware maintenance - Parts replacement (RAM, Disks, I/O cards, etc.), Performance Diagnosis and troubleshooting
+      - Repair / RMA task available
+
+    # Capable system administration experienced in helping end users correct problems with computer systems,
+    # mobile devices and peripheral equipment. Knowledgeable about usability and security concerns. Skilled 
+    # at working alone to investigate and fix problems. Skilled Support Technician enthusiastic about helping 
+    # facility run smoothly by providing top-notch support. Proficient in Windows/Linux server maintenance and repairs. 
+    # Work Experience as End User Support Technician (1.5 year at Exxon Mobile Korea) Work Experience as Level 2 support 
+    # technician & IT Consultant (total 4 years at Synditech Solutions) Certificates in CompTIA A+, Network+, Security+, 
+    # Microsoft MCSE 2003 Security, Cisco CCNA(expired).
 
 education:
   - degree: Master of Business Administration
@@ -93,7 +104,7 @@ experiences:
 
   - role: End User Support Analyst
     time: Apr 2014 - Sep 2016
-    company: Google, London
+    company: Exxonmobil Korea Ltd., Seoul, South Korea
     details: |
       -	End user IT support including network
       -	Hardware/Software Diagnosis and repair
@@ -102,57 +113,55 @@ experiences:
       -	Windows Operating System Troubleshooting
       -	Active Directory management and support
       -	Apple iPhone/iPad support
+      - Global support with business and engineering teams
+      - Data security management consult while meeting with external vendor
 
   - role: Computer Teacher
     time: Mar 2017 - Feb 2018
     company: Ehwa Media High School, Seoul, South Korea
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      - Teach computer basic including word processor and spread sheet
+      - Manage IT facilities such as computer labs and device storages
+      - Manage network facilities such as routers and switches
+      - Support end user computer issues: Hardware and Software
+      - Consult IT related issues
 
   - role: Computer Teacher
     time: Mar 2005 - Feb 2009
     company: Jae Hyun High School, Seoul, South Korea
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      - Teach computer basic including word processor and spread sheet
+      - Manage IT facilities such as computer labs and device storages
+      - Manage network facilities such as routers and switches
+      - Support end user computer issues: Hardware and Software
+      - Consult IT related issues
 
 projects:
   title: Projects
-  intro: >
-    You can list your side projects or open source libraries in this
-    section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+  # intro: >
+  #   You can list your side projects or open source libraries in this
+  #   section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  #   Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   assignments:
-    - title: Velocity
-      link: "#hook"
-      tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    - title: Linux Migration onto VMware
+      # link: "#hook"
+      tagline: Local linux system moved to VMware virtual machine
 
-    - title: DevStudio
-      link: "#"
-      tagline: "A responsive website template designed to help web developers/designers market their services."
+    - title: Windows System Migration
+      # link: "#"
+      tagline: Local Windows system file moved to Windows Server and implement Active Directory
 
-    - title: Tempo
-      link: "#"
-      tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    - title: Network System Migration
+      #link: "#"
+      tagline: Office Moving project. Network facilities moved to new office.
 
-    - title: Atom
-      link: "#"
-      tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    - title: Network Infrastructure Build
+      # link: "#"
+      tagline: From physical cabling to deploying network devices
 
-    - title: Delta
-      link: "#"
-      tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    - title: Operating System upgrade
+      #link: "#"
+      tagline: Multiple end user desktops upgrade to Windows 10
 
 # publications:
 #   title: Publications
