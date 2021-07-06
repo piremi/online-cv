@@ -189,23 +189,23 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
-    - name: Python & Django
-      level: 98%
+    - name: Unix based OS (Linux, Mac) & Applications
+      level: 90%
 
-    - name: Javascript & jQuery
-      level: 98%
-
-    - name: Angular
-      level: 98%
-
-    - name: HTML5 & CSS
+    - name: MS Windows based OS & Applications
       level: 95%
 
-    - name: Ruby on Rails
+    - name: Network Maintenance
       level: 85%
 
-    - name: Sketch & Photoshop
-      level: 60%
+    - name: Cisco VOIP
+      level: 85%
+
+    - name: Computer based Hardware
+      level: 90%
+
+    - name: Knowledge of Security
+      level: 90%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
